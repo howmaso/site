@@ -20,4 +20,4 @@ u dont, wtf is wrong with u
 
 67676767676767666767676767576767576757676767
 
-i lowk might be a furry also
+ts site is lowk begging for the sweet release of death. also its not even close to done, but i meed to push SOMETHING
