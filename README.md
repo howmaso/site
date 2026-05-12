@@ -1,23 +1,5 @@
-howmaso professional portfolio ⁹ts an excuse i just wanted to make a siteⁿ
-
-its late asf. sgrkudbvkursbkvusbd
-
-
-full site redesign is planeed (ts is a lie i havemt planned shit, but hopefully i maoe an actual site redesign)
-
-
-
-
-contributing:
-u dont, wtf is wrong with u
-
-
-
-
-
-
-
-
-67676767676767666767676767576767576757676767
-
-ts site is lowk begging for the sweet release of death. also its not even close to done, but i meed to push SOMETHING
+howmaso's website.
+<br>
+yes i am aware this is a steaming pile of pure genuine dogshit, im working on it.
+<br>
+TODO: figure out backend situation ("why make a backend?" nobody asked. "Well it's a secret!" howmaso responded to the voices), fix social links not working in navbar, and do some polishing (aka break the site again)
