@@ -1,3 +1,5 @@
+*Do NOT contribute. Like the sqlite guy said: prs are free as in free puppies. which i think he took from torvalds... ehh who knows anymore*
+
 howmaso's website.
 <br>
 yes i am aware this is a steaming pile of pure genuine dogshit, im working on it.
