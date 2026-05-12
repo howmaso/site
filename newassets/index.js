@@ -1,1 +1,1 @@
-document.cookie = "Testing=howmaso";
+document.cookie = "best programmer=howmaso";
